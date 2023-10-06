@@ -1,5 +1,3 @@
-public class pessoa {
+public abstract class Pessoa {
     private String sobrenome;
-    private String cpf;
-    
 }
